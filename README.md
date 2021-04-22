@@ -1,3 +1,5 @@
+[Lastest PDF](https://github.com/nlouie/info-sec-course/raw/main/WebSec.pdf)
+
 # Information Security
 ## What do I need to know in 2021?
 
@@ -98,3 +100,5 @@ By impersonating a service with a similar-looking website, the attackers try to 
 - Install privacy browser extensions, and remove disreputable ones.
 - Use a VPN, or host your own
 - Never click links in suspicious emails, text messages, or give away personal data to someone over the phone. If it sounds too good to be true, it probably is.
+
+
